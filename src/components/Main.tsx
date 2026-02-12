@@ -43,10 +43,6 @@ function Main() {
             </a>
             <a
               href="https://www.linkedin.com/in/masego-mashego"
-<<<<<<< HEAD
-=======
-            
->>>>>>> a92f67ce22af6ef2eaa108fce853ed09fddaa6bb
               target="_blank"
               rel="noreferrer"
             >

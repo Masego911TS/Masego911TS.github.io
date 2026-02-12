@@ -24,7 +24,7 @@ function Timeline() {
           >
             <h3 className="vertical-timeline-element-title">Bachelor of Computer and Information Sciences in Application Development</h3>
             <h4 className="vertical-timeline-element-subtitle">IIE Varsity College</h4>
-            <p>Expected Graduation: 2026</p>
+        
           </VerticalTimelineElement>
 
           {/* Higher Certificate */}
